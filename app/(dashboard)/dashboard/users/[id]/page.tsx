@@ -1,5 +1,5 @@
 import React from "react"
-import Link from "next/link"
+// import Link from "next/link"
 // page contains the id and typescript saying that the input is the string it's self.
 const page = ({ params }: { params: { id: string } }) => {
     // destructing the id from the params from the string.
