@@ -10,7 +10,7 @@ const page = ({ params }: { params: { id: string } }) => {
         // </div>
         <div className="mt-10">
             <div className="bg-gray-500 p-4 rounded-lg m-10 text-black">
-                <div className="text-[30px] font-bold text-center">Users Profile : {id}</div>
+                <div className="text-[60px] text-center">Users Profile : {id}</div>
 
             </div>
         </div>
